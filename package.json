@@ -1,6 +1,6 @@
 {
   "name": "@velvetkevorkian/sketch-boilerplate-p5",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,7 @@
   "dependencies": {
     "@velvetkevorkian/sketch-ui": "^0.0.5",
     "@velvetkevorkian/sketch-utils": "0.0.2",
-    "p5": "^0.7.2"
-  },
-  "devDependencies": {
+    "p5": "^0.7.2",
     "clean-webpack-plugin": "1.0.0",
     "css-loader": "^2.0.0",
     "eslint": "^5.10.0",
